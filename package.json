@@ -1,0 +1,12 @@
+{
+  "name": "stremio-server-host",
+  "version": "1.0.0",
+  "description": "Self-hosted Stremio server for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-server": "latest"
+  }
+}
